@@ -174,12 +174,7 @@ export default function Professors({
               key={`${id}-pfp`}
               className={unvisible ? styles.unvisible : ``}
             >
-              <Image
-                src={`${id}.png` || "/pfp.png"}
-                alt={name}
-                width={100}
-                height={100}
-              />
+              <Image src={`${id}.png`} alt={name} width={100} height={100} />
             </span>,
             <h3
               className={unvisible ? styles.unvisible : ``}

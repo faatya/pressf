@@ -22,7 +22,7 @@ export default function Profile({
     <div className={styles.profile}>
       <div className={styles.image}>
         <div>
-          <Image src={`${id}.png` || `/pfp.png`} alt={name} fill />
+          <Image src={`/${id}.png`} alt={name} fill />
         </div>
       </div>
       <section className={styles.info}>
