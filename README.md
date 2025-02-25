@@ -1,7 +1,7 @@
 # PressF
 
 ## Overview
-PressF is a Next.js-based web application designed to provide a structured platform for managing courses, professors, and user interactions. It integrates authentication, feedback, and profile management features.
+PressF is a Next.js-based web application designed to provide a structured platform for managing courses, professors, and user interactions. It integrates authentication, feedback, and profile management features. Thia project is adapted specifically for our university.
 
 ## Features
 - User Profiles – Users can create and manage their profiles.
