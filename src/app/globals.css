@@ -214,3 +214,113 @@ b {
   }
   
 }
+@media screen and (max-width: 400px) {
+  main {
+    padding: 20px;
+    gap: 20px;
+  }
+
+  h1 {
+    font-size: 48px;
+  }
+
+  h2 {
+    font-size: 32px;
+  }
+
+  h3 {
+    font-size: 24px;
+  }
+
+  h4 {
+    font-size: 20px;
+  }
+
+  h5 {
+    font-size: 16px;
+  }
+
+  h6 {
+    font-size: 14px;
+  }
+
+  p {
+    font-size: 14px;
+  }
+
+  button {
+    font-size: 14px;
+  }
+
+  a {
+    font-size: 14px;
+  }
+
+  footer {
+    padding: 10px;
+  }
+
+  header {
+    padding: 10px;
+  }
+
+  main {
+    gap: 10px;
+  }
+  
+}
+@media screen and (max-width: 360px) {
+  main {
+    padding: 10px;
+    gap: 10px;
+  }
+
+  h1 {
+    font-size: 32px;
+  }
+
+  h2 {
+    font-size: 24px;
+  }
+
+  h3 {
+    font-size: 20px;
+  }
+
+  h4 {
+    font-size: 16px;
+  }
+
+  h5 {
+    font-size: 14px;
+  }
+
+  h6 {
+    font-size: 12px;
+  }
+
+  p {
+    font-size: 12px;
+  }
+
+  button {
+    font-size: 12px;
+  }
+
+  a {
+    font-size: 12px;
+  }
+
+  footer {
+    padding: 10px;
+  }
+
+  header {
+    padding: 10px;
+  }
+
+  main {
+    gap: 10px;
+  }
+  
+}
