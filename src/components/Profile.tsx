@@ -6,7 +6,6 @@ import styles from "@/styles/Profile.module.css";
 import Course from "./Course";
 
 export default function Profile({
-  image,
   name,
   email,
   courses,

@@ -163,7 +163,7 @@ export default function Professors({
           }
         />
         {sortedProfessors.flatMap(
-          ({ id, name, rating, image, courses, unvisible }) => [
+          ({ id, name, rating, courses, unvisible }) => [
             <h2
               className={unvisible ? styles.unvisible : ``}
               key={`${id}-rating`}
