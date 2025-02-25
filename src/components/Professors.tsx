@@ -175,7 +175,7 @@ export default function Professors({
               className={unvisible ? styles.unvisible : ``}
             >
               <Image
-                src={‘${id}.png’ || "/pfp.png"}
+                src={`${id}.png` || "/pfp.png"}
                 alt={name}
                 width={100}
                 height={100}
