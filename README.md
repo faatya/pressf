@@ -33,7 +33,7 @@ Ensure you have the following installed before setting up the project:
    
    yarn install
    
-## Usage
+## Usa
 
 ### Running in Development Mode
 Start the development server with:
