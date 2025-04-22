@@ -1,24 +1,33 @@
 # PressF
 
-## Overview
-PressF is a Next.js-based web application designed to provide a structured platform for managing courses, professors, and user interactions. It integrates authentication, feedback, and profile management features. Thia project is adapted specifically for our university.
+PressF is a Next.js-based web application tailored for university environments. It offers a structured platform for managing courses, professors, and user interactions. The application integrates features such as authentication, feedback mechanisms, and profile management to enhance the academic experience.
 
 ## Features
-- User Profiles – Users can create and manage their profiles.
-- Course Management – View and interact with available courses.
-- Professor Listings – Browse and manage professor profiles.
-- Feedback System – Submit and view feedback for courses or professors.
-- Authentication – Secure login system with potential OAuth support.
-- Admin Dashboard – Admin users can manage content and users.
-- Interactive UI – Forms and modals enhance user interactions.
 
-## Prerequisites
-Ensure you have the following installed before setting up the project:
-- Node.js (Latest LTS version recommended)
-- npm (Comes with Node.js) or yarn
-- Git (Optional but recommended)
+- **User Profiles**: Create and manage personal profiles with relevant academic information.
+- **Course Management**: Browse, enroll, and interact with available courses.
+- **Professor Listings**: View detailed profiles of professors, including their courses and feedback.
+- **Feedback System**: Submit and review feedback for courses and professors to foster continuous improvement.
+- **Authentication**: Secure login system, potentially with OAuth support for seamless access.
+- **Admin Dashboard**: Administrative interface for managing users, courses, and content.
+- **Interactive UI**: Responsive design with forms and modals to enhance user experience.
 
-## Installation
+## Tech Stack
+
+- **Framework**: [Next.js](https://nextjs.org/)
+- **Language**: [TypeScript](https://www.typescriptlang.org/)
+- **Styling**: [Tailwind CSS](https://tailwindcss.com/)
+- **Linting**: [ESLint](https://eslint.org/)
+- **Package Management**: [npm](https://www.npmjs.com/)
+
+## Getting Started
+
+### Prerequisites
+
+- [Node.js](https://nodejs.org/) (v14 or higher)
+- [npm](https://www.npmjs.com/)
+
+### Installation
 
 1. Clone the repository:
    
@@ -32,6 +41,10 @@ Ensure you have the following installed before setting up the project:
    Or, if using yarn:
    
    yarn install
+
+3. Run the development server:
+   
+   npm run dev
    
 ## Usage
 
